@@ -1,0 +1,27 @@
+{"properties": [
+  {
+    "name": "data",
+    "type": "java.lang.String",
+    "description": "A description for 'data'"
+  },
+  {
+    "name": "mongo",
+    "type": "java.lang.String",
+    "description": "A description for 'mongo'"
+  },
+  {
+    "name": "spring",
+    "type": "java.lang.String",
+    "description": "A description for 'spring'"
+  },
+  {
+    "name": "uri",
+    "type": "java.lang.String",
+    "description": "A description for 'uri'"
+  },
+  {
+    "name": "database",
+    "type": "java.lang.String",
+    "description": "A description for 'database'"
+  }
+]}
